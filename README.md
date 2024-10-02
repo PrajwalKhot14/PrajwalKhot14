@@ -2,8 +2,11 @@
 <h3 align="center">Software Developer</h3>
 
 🌍 I'm based in Chicago (open to relocation)
+
 🧠 I have over 3 years of professional experience working as a Software Developer and DevOps Engineer
+
 📫 How to reach me **khotprajwal04@gmail.com**
+
 📄 Know about my experiences [https://drive.google.com/file/d/1IWO3luK0Zy6EDWv07kCj0Qa2Ncqqd5Nb/view?usp=sharing](https://drive.google.com/file/d/1IWO3luK0Zy6EDWv07kCj0Qa2Ncqqd5Nb/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
