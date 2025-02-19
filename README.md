@@ -7,8 +7,6 @@
 
 📫 How to reach me **khotprajwal04@gmail.com**
 
-📄 Know about my experiences [https://drive.google.com/file/d/1IWO3luK0Zy6EDWv07kCj0Qa2Ncqqd5Nb/view?usp=sharing](https://drive.google.com/file/d/1IWO3luK0Zy6EDWv07kCj0Qa2Ncqqd5Nb/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prajwalkhot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prajwalkhot" height="30" width="40" /></a>
