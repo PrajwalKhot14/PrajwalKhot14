@@ -26,14 +26,14 @@ University of Illinois Cancer Center
 July 2023 – Present
 Chicago, IL, United States · On-site
 
-- Engineered a Vue.js web application on Azure App Services, providing secure, real-time access to genomics data for over 300 healthcare professionals, significantly enhancing data accessibility and decision-making speed by 40%
+- Engineered a React.js web application on Azure App Services, providing secure, real-time access to genomics data for over 300 healthcare professionals, significantly enhancing data accessibility and decision-making speed by 40%
 - Implemented OAuth2 authentication, role-based access controls and optimized data retrieval processes, ensuring compliance with healthcare data privacy standards and improving overall app performance
 - Designed and implemented ascalable CI/CD pipeline using Jenkins, streamlining code deployments across multiple environments with YAML configuration
 - Leveraged Azure Databricks and Python to streamline ETL processes, converting large JSON files into structured data, reducing data processing time by 40% for datasets with over 1 million records
-- Implemented monitoring and alerting solutions using Prometheus and Grafana, ensuring 99.9% system uptime
+- Implemented serverless architectures and microservices to handle genomic datasets, improving system scalability
 - Implemented NLP algorithms to extract structured information from unstructured clinical notes and free-text medical documents, achieving a 90% accuracy rate
 
-Skills: Python · Microsoft SQL Server · Azure · Jenkins · Prometheus · Grafana · NLP 
+Skills: Python · Microsoft SQL Server · Azure · Jenkins · React.js · NLP 
 
 ---
 
@@ -41,12 +41,13 @@ Skills: Python · Microsoft SQL Server · Azure · Jenkins · Prometheus · Graf
 University of Illinois Cancer Center
 March 2022– May2023
 Chicago, IL, United States · On-site
-- Analyzed electronic health records (EHR) using ASP.NET, identifying trends in patient demographics, disease prevalence, and healthcare utilization, which led to a 20% improvement in patient care outcomes
-- Added backend functionality to the UI Health application, including user authentication, patient data storage, and API development using Python and Azure services
+- Analyzed electronic health records (EHR) using Python and Django to identify patterns and trends related to patient demographics, disease prevalence, and healthcare utilization, resulting in a 20% improvement in patient care outcomes
+- Orchestrated complex data transformations and loading tasks by integrating Control-M with SSIS, optimizing workflow efficiency and reducing data processing time by 50%
+- Added backend functionality to the UI Health application, including user authentication, patient data storage, and API development using Flask and Azure services
 - Designed and developed SSMS stored procedures to consolidate Tumor Registry data, optimizing data management processes and enabling more efficient access for researchers
 - Implemented unit tests using PyTest, achieving a test coverage of over 80%, resulting in a 40% reduction in production defects and enhancing overall software reliability and stability
  
-Skills: Python · ASP.NET · Microsoft SQL Server · Azure · Tableau · PyTest
+Skills: Python · Django · Microsoft SQL Server · Azure · Tableau · Control-M · PyTest · SSIS
 
 --- 
 
@@ -54,9 +55,9 @@ Skills: Python · ASP.NET · Microsoft SQL Server · Azure · Tableau · PyTest
 KEA Data Pvt. Ltd.
 Aug 2020–July 2021
 Bangalore, India · Hybrid
-- Built dynamic forms and dashboards using Python (Django), integrating them with RESTful APIs to provide real-time data updates, improving data accuracy by 20%
-- Optimized database queries for Postgres and MongoDB, reducing query processing time by 30%, enhancing system responsiveness
+- Conducted quantitative analysis of financial market data to identify trading opportunities and optimize investment strategies, leading to a 15% increase in portfolio returns
+- Utilized LSTM (Long Short-Term Memory) models to enhance time-series forecasting capabilities, further improving accuracy and performance
+- Implemented monitoring and reporting systems for workload management on Docker containers using Grafana and Prometheus, enhancing system stability and performance
 - Implemented CI/CD pipelines using Docker, Jenkins, and Kubernetes with Kafka for distributed messaging, reducing deployment time by 40% and improving the reliability of data-driven microservices
-- Enhanced system stability by integrating automated monitoring and alerting with Grafana and Prometheus in a Kubernetes environment, proactively identifying and resolving performance bottlenecks
 
 Skills: Python · Django · Postgres · MongoDB · Tableau · Jenkins · Docker · Kubernetes · Kafka · Grafana · Prometheus
